@@ -20,7 +20,6 @@ This project is mainly focused on classifying potato leaves from other objects. 
 To get started with this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/Getch-27/CNN_potato-leaf-binary-classifier.git
 pip install -r requirements.txt
 
